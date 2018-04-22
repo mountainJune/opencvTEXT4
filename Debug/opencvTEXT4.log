@@ -1,0 +1,7 @@
+﻿  源.cpp
+e:\数字媒体星期天上午\opencvtext4\opencvtext4\源.cpp(120): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\数字媒体星期天上午\opencvtext4\opencvtext4\源.cpp(176): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\数字媒体星期天上午\opencvtext4\opencvtext4\源.cpp(177): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\数字媒体星期天上午\opencvtext4\opencvtext4\源.cpp(178): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  opencvTEXT4.vcxproj -> E:\数字媒体星期天上午\opencvTEXT4\Debug\opencvTEXT4.exe
+  opencvTEXT4.vcxproj -> E:\数字媒体星期天上午\opencvTEXT4\Debug\opencvTEXT4.pdb (Full PDB)
